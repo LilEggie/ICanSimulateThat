@@ -1,0 +1,38 @@
+{
+    "borders": [
+        "basic",
+        "first_edition",
+        "silver",
+        "gold",
+        "ex",
+        "full_art"
+    ],
+
+    "cards": [
+        "Pigni",
+        "Kidsune",
+        "Nanomite",
+        "Sapoling",
+        "Minstar",
+        "Shellow",
+        "Wurmgle",
+        "Nocti",
+        "Helio",
+        "Werboo",
+        "Flami",
+        "Kyrone",
+        "Lupup",
+        "Gupi",
+        "Batrang",
+        "Tetron",
+        "Clawop",
+        "Sunflork",
+        "Crobib",
+        "Nimblis",
+        "Esmeri",
+        "Seedant",
+        "Mufflin",
+        "Anguifish"
+    ]
+}
+

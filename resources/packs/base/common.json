@@ -1,0 +1,7 @@
+{
+    "base_common": 6,
+    "*": {
+        "ghost": 0.1,
+        "base_common": 100.0
+    }
+}

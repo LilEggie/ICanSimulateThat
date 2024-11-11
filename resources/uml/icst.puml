@@ -1,0 +1,31 @@
+@startuml
+class Expansion
+{
+    +{field} name
+    +{field} num_cards
+
+    +{method} register(collection)
+    +{method} finished(collection)
+    +{method} num_collected(collection)
+}
+
+class Pack
+{
+    -{field} cards
+    +{field} num_cards
+
+    +{method} rip_open(collection)
+}
+
+class Card
+{
+    #{field} border_chances
+    #{field} tetramon_chances
+
+    +{method} borders()
+    +{method} tetramons()
+    +{method} random()
+}
+
+Pack "1" o-- "1..*" Card
+@enduml

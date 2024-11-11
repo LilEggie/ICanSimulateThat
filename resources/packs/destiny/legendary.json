@@ -1,0 +1,7 @@
+{
+    "destiny_legendary": 6,
+    "*": {
+        "ghost": 0.2,
+        "destiny_legendary": 100.0
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "borders": [
+        "basic",
+        "first_edition",
+        "silver",
+        "gold",
+        "ex",
+        "full_art"
+    ],
+
+    "cards": [
+        "Inferhog",
+        "Honobi",
+        "Meganite",
+        "Timbro",
+        "Princestar",
+        "Aquariff",
+        "Mothini",
+        "Vampicant",
+        "Drilceros",
+        "Grizzaw",
+        "Flory",
+        "Moskit",
+        "Threeze",
+        "Tortugor",
+        "Lucinder",
+        "Gilgabass",
+        "Wolgin",
+        "Gannon",
+        "Clawaken",
+        "Scarkgorus",
+        "Crorathian",
+        "Nimbustrike",
+        "Esmerdios",
+        "Litspire",
+        "Clawvenger",
+        "Buzzeed",
+        "Talontsu",
+        "Talonika",
+        "Kataryu",
+        "Mufflimax",
+        "Amnesilla",
+        "Gekoflare"
+    ]
+}

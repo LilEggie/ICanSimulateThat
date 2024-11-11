@@ -1,0 +1,14 @@
+{
+    "expansion": "base_common",
+
+    "foil_chance": 5.0,
+
+    "border_chances": {
+        "full_art": 0.25,
+        "ex": 1.0,
+        "gold": 4.0,
+        "silver": 8.0,
+        "first_edition": 20.0,
+        "basic": 100.0
+    }
+}

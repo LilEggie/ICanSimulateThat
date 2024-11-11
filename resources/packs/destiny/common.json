@@ -1,0 +1,7 @@
+{
+    "destiny_common": 6,
+    "*": {
+        "ghost": 0.2,
+        "destiny_common": 100.0
+    }
+}

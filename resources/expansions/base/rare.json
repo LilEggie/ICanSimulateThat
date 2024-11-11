@@ -1,0 +1,44 @@
+{
+    "borders": [
+        "basic",
+        "first_edition",
+        "silver",
+        "gold",
+        "ex",
+        "full_art"
+    ],
+
+    "cards": [
+        "Burpig",
+        "Bonfiox",
+        "Decimite",
+        "Forush",
+        "Trickstar",
+        "Clamigo",
+        "Pupazz",
+        "Lunight",
+        "Minotos",
+        "Jelicleen",
+        "Wispo",
+        "Mummog",
+        "Pixy",
+        "Angez",
+        "Twofrost",
+        "Luphire",
+        "Sharfin",
+        "Dusko",
+        "Raxx",
+        "Clawdos",
+        "Scarlios",
+        "Crosilisk",
+        "Nimboculo",
+        "Esmerock",
+        "Crablox",
+        "Lumie",
+        "Budwing",
+        "Beakai",
+        "Muffleur",
+        "Amneshark",
+        "Frizard"
+    ]
+}

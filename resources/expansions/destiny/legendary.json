@@ -1,0 +1,37 @@
+{
+    "borders": [
+        "basic",
+        "first_edition",
+        "silver",
+        "gold",
+        "ex",
+        "full_art"
+    ],
+
+    "cards": [
+        "Blazoar",
+        "Kyuenbi",
+        "Giganite",
+        "Mammotree",
+        "Kingstar",
+        "Fistronk",
+        "Royalama",
+        "Dracunix",
+        "Magnoria",
+        "Hydroid",
+        "Drakon",
+        "Bogon",
+        "Hydron",
+        "Raizon",
+        "Lucadence",
+        "Jigajawr",
+        "Jacktern",
+        "GigatronX",
+        "Clawcifear",
+        "Voltrex",
+        "Flambrolly",
+        "Talonryu",
+        "Katengu",
+        "Terradrakon"
+    ]
+}

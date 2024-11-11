@@ -1,0 +1,10 @@
+{
+    "expansion": "ghost",
+
+    "foil_chance": 5.0,
+
+    "border_chances": {
+        "black": 50,
+        "white": 100
+    }
+}
