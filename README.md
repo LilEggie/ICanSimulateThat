@@ -35,7 +35,7 @@ To adjust border drop rates, navigate to the `cards` directory and open the JSON
 
 In the `"border_chances"` section, you can update the floating-point values to set the probability of a card having a specific border. The values represent percentages (e.g., 21.5 means a 21.5% chance).
 
-You can also add new border types. For example, to introduce "shiny" and "sparkly" borders, modify the JSON file as follows:
+You can also add new border types. For example, to introduce "shiny" and "sparkly" borders, modify the JSON file as follows. If you add new border types, make sure you do exactly the same thing—name and order—in the corresponding expansion JSON files.
 ```json
 "border_chances": {
   "shiny": 1.0,
