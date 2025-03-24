@@ -15,7 +15,7 @@
 ### Cloning the Repository
 To get started, clone the repository using:
 ```sh
-git clone https://github.com/yourusername/ICanSimulateThat.git
+git clone https://github.com/LilEggie/ICanSimulateThat.git
 cd ICanSimulateThat
 ```
 
